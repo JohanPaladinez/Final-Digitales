@@ -1,0 +1,24 @@
+|Cod9a4
+A0 <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+N1 => inst8.IN0
+N5 => inst8.IN1
+N5 => inst2.IN3
+N3 => inst8.IN2
+N3 => inst1.IN0
+N7 => inst8.IN3
+N7 => inst1.IN2
+N7 => inst2.IN2
+N9 => inst8.IN4
+N9 => inst4.IN0
+A1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+N6 => inst1.IN1
+N6 => inst2.IN1
+N2 => inst1.IN3
+A2 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+N4 => inst2.IN0
+A3 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+N8 => inst4.IN1
+M <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+N0 => ~NO_FANOUT~
+
+

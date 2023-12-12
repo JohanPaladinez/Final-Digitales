@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/Nuevo_4a2.vhd
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/Nuevo_4a2.bdf
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/Waveform.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/Waveform1.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/Waveform2.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Nuevo4a2/db/Nuevo_4a2.cbx.xml
+design_name = Nuevo_4a2
+instance = comp, \Y1~output , Y1~output, Nuevo_4a2, 1
+instance = comp, \Y2~output , Y2~output, Nuevo_4a2, 1
+instance = comp, \F3~input , F3~input, Nuevo_4a2, 1
+instance = comp, \F1~input , F1~input, Nuevo_4a2, 1
+instance = comp, \F2~input , F2~input, Nuevo_4a2, 1
+instance = comp, \F0~input , F0~input, Nuevo_4a2, 1

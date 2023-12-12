@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USUARIO\Documents\Nuevo4a2\simulation\qsim
+vNuevo_4a2
+Z1 !s100 6Q^8R[99:VNjB:^c^Vc_W3
+Z2 IVZF5]L[Z^:3MQ=<OTTERF1
+Z3 Vk92B@246<VI0oZe]aoJ402
+Z4 dC:\Users\USUARIO\Documents\Nuevo4a2\simulation\qsim
+Z5 w1702337304
+Z6 8Nuevo_4a2.vo
+Z7 FNuevo_4a2.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Nuevo_4a2.vo|
+Z10 o-work work -O0
+Z11 n@nuevo_4a2
+!i10b 1
+!s85 0
+Z12 !s108 1702337305.844000
+Z13 !s107 Nuevo_4a2.vo|
+!s101 -O0
+vNuevo_4a2_vlg_check_tst
+!i10b 1
+Z14 !s100 @m<^kb0`:>;42fz:=X3N?1
+Z15 I:]^LCUIkSK0@PYI:EiQ2K0
+Z16 VEld;hehIB5V[fMc<6RZ`Y2
+R4
+Z17 w1702337302
+Z18 8Waveform2.vwf.vt
+Z19 FWaveform2.vwf.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1702337305.945000
+Z21 !s107 Waveform2.vwf.vt|
+Z22 !s90 -work|work|Waveform2.vwf.vt|
+!s101 -O0
+R10
+Z23 n@nuevo_4a2_vlg_check_tst
+vNuevo_4a2_vlg_sample_tst
+!i10b 1
+Z24 !s100 zbX@HL3HVh275I]odlfKf2
+Z25 IS1X2PNXiYMPbzJ`jl<Uo90
+Z26 VF]CLOQD=]IjiiFgB9@z2i2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@nuevo_4a2_vlg_sample_tst
+vNuevo_4a2_vlg_vec_tst
+!i10b 1
+!s100 AXA<]Ee`a`HDPzz@bzk761
+I:T;Zz1[Fe2jShn_KF[CVe2
+Z28 V`eo`oY7I;cAlCS[[GBdB`3
+R4
+R17
+R18
+R19
+Z29 L0 185
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@nuevo_4a2_vlg_vec_tst

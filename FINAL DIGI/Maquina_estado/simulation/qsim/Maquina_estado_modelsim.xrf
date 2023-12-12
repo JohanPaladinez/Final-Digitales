@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/Maquina_estado.vhd
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/Maquina_estado.bdf
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/Waveform.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/Waveform1.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/Waveform2.vwf
+source_file = 1, C:/Users/USUARIO/Documents/Maquina_estado/db/Maquina_estado.cbx.xml
+design_name = Maquina_estado
+instance = comp, \W0~output , W0~output, Maquina_estado, 1
+instance = comp, \W1~output , W1~output, Maquina_estado, 1
+instance = comp, \CLK~input , CLK~input, Maquina_estado, 1
+instance = comp, \CLK~inputclkctrl , CLK~inputclkctrl, Maquina_estado, 1
+instance = comp, \T~input , T~input, Maquina_estado, 1
+instance = comp, \EXE~input , EXE~input, Maquina_estado, 1
+instance = comp, \inst5~0 , inst5~0, Maquina_estado, 1

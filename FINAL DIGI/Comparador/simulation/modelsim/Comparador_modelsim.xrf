@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USUARIO/Documents/Comparador/Comparador.bdf
+source_file = 1, C:/Users/USUARIO/Documents/Comparador/db/Comparador.cbx.xml
+design_name = Comparador
+instance = comp, \U0~output\, U0~output, Comparador, 1
+instance = comp, \U1~output\, U1~output, Comparador, 1
+instance = comp, \U2~output\, U2~output, Comparador, 1
+instance = comp, \U3~output\, U3~output, Comparador, 1
+instance = comp, \D0~output\, D0~output, Comparador, 1
+instance = comp, \B0~input\, B0~input, Comparador, 1
+instance = comp, \B1~input\, B1~input, Comparador, 1
+instance = comp, \B3~input\, B3~input, Comparador, 1
+instance = comp, \B2~input\, B2~input, Comparador, 1
+instance = comp, \inst7~0\, inst7~0, Comparador, 1
+instance = comp, \inst3~0\, inst3~0, Comparador, 1
